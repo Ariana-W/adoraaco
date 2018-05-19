@@ -1,3 +1,5 @@
+
+
 *{
   margin: 0;
   padding: 0;
@@ -19,6 +21,15 @@ html{
 }
 
 header{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/hero.jpg);
-  height: 100vh; /* 100% of the view port */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;/* Telling the browser we want to see the whole image */
+  background-position: center;
+ height: 100vh; /* 100% of the view port */
+  color: #ffffff; /*#cc0052 ;*/
+
+}
+
+h1{
+  margin: 0;
 }
