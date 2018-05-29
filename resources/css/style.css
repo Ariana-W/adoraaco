@@ -53,4 +53,5 @@ h1{
   display: inline-block;
   padding: 10px 30px; //top and bottm, left and right
   font-weight: 300;
+  text-decoration: none;
 }
