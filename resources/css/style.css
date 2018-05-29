@@ -41,7 +41,10 @@ header{
 h1{
    margin-top: 0;
    margin-bottom: 20px;
+   font-weight: 300;
    color: #fff;
    font-size: 240%;
+   letter-spacing: 1px;
    word-spacing: 4px;
+   text-transform: uppercase;
 }
