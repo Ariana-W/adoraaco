@@ -50,7 +50,8 @@ h1{
    word-spacing: 4px;
 }
 
-.btn{
+.btn:link,
+.btn:visited {
   display: inline-block;
   padding: 10px 30px; /* top and bottm left and right */
   font-weight: 300;
@@ -59,13 +60,24 @@ h1{
   color: #fff;
 }
 
-.btn-full{
+
+.btn-full:link,
+.btn-full:visited {
   background-color: #ff1a75;
   border: 1px solid #ff1a75;
   color: #fff;
 }
 
-.btn-ghost{
+.btn-ghost:link,
+.btn-ghost:visited {
   border: 1px solid #ff1a75;
   color:#ff1a75;
 }
+
+/* hovering over a button*/
+.btn:hover,
+.btn:active {
+  background-color: #e6005b;
+}
+
+/* when clicking on the button this is what will happen (active)*/
