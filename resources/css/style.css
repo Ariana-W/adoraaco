@@ -54,9 +54,14 @@ h1{
   padding: 10px 30px; //top and bottm, left and right
   font-weight: 300;
   text-decoration: none;
-  border-radius: 200 px;
+  border-radius: 200px;
+  color: #fff;
 }
 
 .btn-full{
   background-color: #ff1a75;
+}
+
+.btn-ghost{
+  border: 1px solid #ff1a75;
 }
