@@ -73,11 +73,23 @@ h1{
   border: 1px solid #ff1a75;
   color:#ff1a75;
 }
-/*new commit*/
+
+
 /* hovering over a button*/
 .btn:hover,
 .btn:active {
   background-color: #e6005b;
 }
+/* --------------------------*/
 
-/* when clicking on the button this is what will happen (active)*/
+
+.btn-full:hover,
+.btn-full:active {
+  border: 1px solid #ff1a75;
+}
+
+.btn-ghost:hover,
+.btn-ghost:active {
+  border: 1px solid #ff1a75;
+  color:#fff;
+}
