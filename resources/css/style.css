@@ -25,13 +25,15 @@ header{
   background-repeat: no-repeat;
   background-size: cover;/* Telling the browser we want to see the whole image */
   background-position: center;
- height: 100vh; /* 100% of the view port */
+  height: 100vh; /* 100% of the view port */
   color: #ffffff; /*#cc0052 ;*/
 }
 
 .hero-text-box {
     position: absolute;
     width: 1140px;
+  //  top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
 }
 
