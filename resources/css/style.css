@@ -68,6 +68,8 @@ h1{
   background-color: #ff1a75;
   border: 1px solid #ff1a75;
   color: #fff;
+  /*adding margins between the btn's to add space"*/
+  margin-right: 15px;
 }
 
 .btn-ghost:link,
