@@ -62,8 +62,10 @@ h1{
 .btn-full{
   background-color: #ff1a75;
   border: 1px solid #ff1a75;
+  color: #fff;
 }
 
 .btn-ghost{
   border: 1px solid #ff1a75;
+  color:#ff1a75;
 }
