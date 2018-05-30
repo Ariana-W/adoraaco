@@ -110,8 +110,9 @@ header{
 }
 
 .logo{
+  position: absolute;
   height: 100px;
-  width: auto;
+  width: 600px;
   float: left;
   margin-top: 20px;
 }
