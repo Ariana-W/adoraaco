@@ -109,6 +109,12 @@ header{
   height: 100vh;
 }
 
+.logo{
+  background: url("adoraalogo.png");
+     width : 30;
+     height : 50;
+}
+
 .hero-text-box{
   position: absolute ;
   width: 1140px;
