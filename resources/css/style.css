@@ -110,7 +110,7 @@ header{
 }
 
 .logo{
-  background: url("adoraalogo.png");
+  background-image: url(img/adoraalogo.png);
      width : 30;
      height : 50;
 }
