@@ -28,7 +28,6 @@ html{
   /*margin: 0 auto 0 auto;  top-right-bottom-left*/
 }
 
-
 /* ---------- HEADINGS ----------- */
 
 h1{
@@ -42,9 +41,7 @@ h1{
    word-spacing: 4px;
 }
 
-
 /* ---------- HEADINGS ----------- */
-
 
 
 /* ---------- BUTTONS ----------- */
@@ -60,7 +57,6 @@ h1{
   /* Adding time to color change transition for buttons */
   transition: background-color 0.2s , border 0.2s, color 0.2s;
 }
-
 
 .btn-full:link,
 .btn-full:visited {
@@ -97,7 +93,6 @@ h1{
   color:#fff;
 }
 
-
 /*---------------------------------------------------------------*/
 /*  HEADER */
 /*---------------------------------------------------------------*/
@@ -126,7 +121,7 @@ header{
 
 .logo{
   height: 100px;
-  width: auto;
+  width: 45px;
   float: left;
   color: #fff;
 }
