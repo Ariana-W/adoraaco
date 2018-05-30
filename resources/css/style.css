@@ -121,8 +121,8 @@ header{
 
 .logo{
   position:absolute;
-  top: 2rem;
-  left: 1rem;
+  top: 1vh;
+  left: 3vh;
   height: 40vh;
   width: 35vh;
   color: #fff;
