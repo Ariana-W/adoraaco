@@ -28,7 +28,6 @@ html{
   /*margin: 0 auto 0 auto;  top-right-bottom-left*/
 }
 
-
 /* ---------- HEADINGS ----------- */
 
 h1{
@@ -42,9 +41,13 @@ h1{
    word-spacing: 4px;
 }
 
+h2{
+  margin-top: 0;
+  color: #ffffff;
+  margin-bottom: 15px;
+}
 
 /* ---------- HEADINGS ----------- */
-
 
 
 /* ---------- BUTTONS ----------- */
@@ -60,7 +63,6 @@ h1{
   /* Adding time to color change transition for buttons */
   transition: background-color 0.2s , border 0.2s, color 0.2s;
 }
-
 
 .btn-full:link,
 .btn-full:visited {
@@ -97,7 +99,6 @@ h1{
   color:#fff;
 }
 
-
 /*---------------------------------------------------------------*/
 /*  HEADER */
 /*---------------------------------------------------------------*/
@@ -109,6 +110,13 @@ header{
   height: 100vh;
 }
 
+.logo{
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-top: 20px;
+}
+
 .hero-text-box{
   position: absolute ;
   width: 1140px;
@@ -118,9 +126,11 @@ header{
 }
 
 .logo{
-  height: 100px;
-  width: auto;
-  float: left;
+  top: 60vh;
+  left: 45vh;
+  height: 45vh;
+  width: 35vh;
+  color: #fff;
 }
 
 .main-nav{
