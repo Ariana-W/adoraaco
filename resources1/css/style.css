@@ -109,7 +109,7 @@ h3{
 /*---------------------------------------------------------------*/
 
 header{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(resources1/img/hero3.png);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.png);
   background-size: cover;
   background-position: center;
   height: 100vh;
