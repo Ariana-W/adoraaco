@@ -35,7 +35,7 @@ h1{
   margin-bottom: 20px;
    color: #fff;
    font-size: 240%;
-   font-weight: 300;
+   font-weight: 50;
    text-transform: uppercase;
    letter-spacing: 1px;
    word-spacing: 4px;
@@ -43,10 +43,15 @@ h1{
 
 h2{
   margin-top: 0;
-  color: #ffffff;
+  color: #fff;
   margin-bottom: 15px;
 }
 
+h3{
+  margin-top: 12px;
+  color: #fff;
+  margin-bottom: 15px;
+}
 /* ---------- HEADINGS ----------- */
 
 
@@ -104,7 +109,7 @@ h2{
 /*---------------------------------------------------------------*/
 
 header{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero2.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
