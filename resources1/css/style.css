@@ -57,15 +57,23 @@ h3{
 
 /* ---------- BUTTONS ----------- */
 
-.btn:link,
+
+
+
+
+/* .btn:link,
 .btn:visited {
   display: inline-block;
-  padding: 10px 30px; /* top and bottm left and right */
+  padding: 10px 30px; /* top and bottm, left and right */
+
+  /*
   font-weight: 300;
   text-decoration: none;
   border-radius: 200px;
   color: #fff;
   /* Adding time to color change transition for buttons */
+
+  /*
   transition: background-color 0.2s , border 0.2s, color 0.2s;
 }
 
@@ -73,8 +81,11 @@ h3{
 .btn-full:visited {
   background-color: #ff1a75;
   border: 1px solid #ff1a75;
-  color: #fff;
+  color: #fff;  */
   /*adding margins between the btn's to add space"*/
+  /*
+
+
   margin-right: 15px;
 }
 
@@ -83,16 +94,17 @@ h3{
   border: 1px solid #ff1a75;
   color:#ff1a75;
 }
+*/
 
 
-/* hovering over a button*/
+/* hovering over a button*/ /*
 .btn:hover,
 .btn:active {
   background-color: #d50055;
 }
 /* --------------------------*/
 
-
+/*
 .btn-full:hover,
 .btn-full:active {
   border: 1px solid #ff1a75;
@@ -102,7 +114,15 @@ h3{
 .btn-ghost:active {
   border: 1px solid #ff1a75;
   color:#fff;
-}
+} */
+
+/*--------------------------------------------------------- */
+
+
+
+
+
+
 
 /*---------------------------------------------------------------*/
 /*  HEADER */
