@@ -11,7 +11,9 @@
 
 html{
   background-color: #fff;
-  font-family: 'Lato', 'Arial', sans-serif;
+  /*FONT FAMILIES
+  font-family: 'Lato', 'Arial', sans-serif; */
+  font-family: 'Oswald', sans-serif;
   font-weight: 300;
   color: #555;
   font-size: 20px;
@@ -57,15 +59,23 @@ h3{
 
 /* ---------- BUTTONS ----------- */
 
+
+
+
+
 .btn:link,
 .btn:visited {
   display: inline-block;
-  padding: 10px 30px; /* top and bottm left and right */
+  padding: 10px 30px; /* top and bottm, left and right */
+
+
   font-weight: 300;
   text-decoration: none;
   border-radius: 200px;
   color: #fff;
   /* Adding time to color change transition for buttons */
+
+
   transition: background-color 0.2s , border 0.2s, color 0.2s;
 }
 
@@ -73,8 +83,11 @@ h3{
 .btn-full:visited {
   background-color: #ff1a75;
   border: 1px solid #ff1a75;
-  color: #fff;
+  color: #fff;  */
   /*adding margins between the btn's to add space"*/
+
+
+
   margin-right: 15px;
 }
 
@@ -83,6 +96,7 @@ h3{
   border: 1px solid #ff1a75;
   color:#ff1a75;
 }
+*/
 
 
 /* hovering over a button*/
@@ -102,17 +116,26 @@ h3{
 .btn-ghost:active {
   border: 1px solid #ff1a75;
   color:#fff;
-}
+} */
+
+/*--------------------------------------------------------- */
+
+
+
+
+
+
 
 /*---------------------------------------------------------------*/
 /*  HEADER */
 /*---------------------------------------------------------------*/
 
 header{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero2.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(hero.png);
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: vh;
+
 }
 
 .logo{
