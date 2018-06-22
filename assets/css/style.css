@@ -32,7 +32,7 @@ html{
 
 /* ---------- HEADINGS ----------- */
 
-h1{
+title{
   margin-top: 0;
   margin-bottom: 20px;
    color: #fff;
@@ -43,7 +43,7 @@ h1{
    word-spacing: 4px;
 }
 
-h2{
+title2{
   margin-top: 0;
   color: #fff;
   font-size: 300%;
