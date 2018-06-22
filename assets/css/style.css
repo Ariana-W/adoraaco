@@ -14,7 +14,7 @@ html{
   /*FONT FAMILIES
   font-family: 'Lato', 'Arial', sans-serif; */
   font-family: 'Oswald', sans-serif;
-  font-weight: 300;
+  font-weight: 200;
   color: #555;
   font-size: 20px;
   text-rendering: optimizeLegibility;
@@ -36,7 +36,7 @@ title{
   margin-top: 0;
   margin-bottom: 20px;
    color: #fff;
-   font-size: 240%;
+   font-size: 350%;
    font-weight: 50;
    text-transform: uppercase;
    letter-spacing: 1px;
