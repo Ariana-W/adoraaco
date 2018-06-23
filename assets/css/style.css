@@ -35,7 +35,7 @@ title{
   margin-top: 0;
   margin-bottom: 20px;y
    font-size: 250;
-   font-weight: 50;
+   font-weight: 35;
    text-transform: uppercase;
    letter-spacing: 1px;
    word-spacing: 4px;
@@ -43,6 +43,7 @@ title{
 
 title2{
   margin-top: 0;
+  font-weight: 35;
   font-size: 200;
   margin-bottom: 15px;
   text-align:center;
